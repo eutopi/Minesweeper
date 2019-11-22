@@ -1,6 +1,6 @@
 # Minesweeper
 
-A mini minesweeper simulation on Android. The home screen allows for selection of bomb counts, will increases game difficulty. Later implementations will include a timer and indicators/hints on tiles.
+A mini minesweeper game. The home screen allows the user to select the number of bombs, leading to increased difficulty. Later implementations will include a timer and indicators/hints on tiles.
 
 
 Home Screen            |  Game Screen
